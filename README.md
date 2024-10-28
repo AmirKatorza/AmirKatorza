@@ -10,7 +10,7 @@ I'm a DevOps Engineer with certifications as a **CKA – Certified Kubernetes Ad
 
 ## Projects
 
-Explore [my GitHub Projects folder](https://github.com/AmirKatorza/?tab=repositories) for examples of my recent work, including:
+Explore [my GitHub Projects folder](https://github.com/AmirKatorza/Projects) for examples of my recent work, including:
 
 - **Three-Tier Web Application**: Developed using Nginx, Flask, and MongoDB.
 - **CI/CD Pipeline Automation**: Implemented with Jenkins for streamlined builds, testing, and deployments.
@@ -25,7 +25,7 @@ Explore [my GitHub Projects folder](https://github.com/AmirKatorza/?tab=reposito
 - **Naya College** – Practical Data Science and Machine Learning Bootcamp, 2021
 - **The Open University** – Bachelor of Arts in Psychology and Cognitive Science, Graduated with Honors, 2020
 
-I am continuously seeking opportunities to grow my expertise in DevOps. If you’re looking for a dedicated engineer passionate about automation and infrastructure, let’s connect!
+I am continuously seeking opportunities to grow my expertise in the DevOps field. If you’re looking for a dedicated engineer with a passion for automation and infrastructure, let’s connect!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,11 +38,23 @@ I am continuously seeking opportunities to grow my expertise in DevOps. If you�
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
@@ -50,20 +62,23 @@ I am continuously seeking opportunities to grow my expertise in DevOps. If you�
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
 </p>
 
@@ -78,10 +93,10 @@ I am continuously seeking opportunities to grow my expertise in DevOps. If you�
 </a>
 </p>
 
-### Badges
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AmirKatorza&show_icons=true&locale=en" alt="AmirKatorza" /></p>
 
-<a href="http://www.github.com/AmirKatorza"><img src="https://github-readme-stats.vercel.app/api?username=AmirKatorza&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AmirKatorza's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirKatorza&show_icons=true&locale=en&layout=compact" alt="AmirKatorza" /></p>
 
-<a href="http://www.github.com/AmirKatorza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirKatorza&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
